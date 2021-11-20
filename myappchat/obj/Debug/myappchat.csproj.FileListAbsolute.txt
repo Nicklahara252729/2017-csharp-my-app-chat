@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\myappchat\myappchat\bin\Debug\myappchat.exe.config
+c:\users\user\documents\visual studio 2013\Projects\myappchat\myappchat\bin\Debug\myappchat.exe
+c:\users\user\documents\visual studio 2013\Projects\myappchat\myappchat\bin\Debug\myappchat.pdb
+c:\users\user\documents\visual studio 2013\Projects\myappchat\myappchat\obj\Debug\myappchat.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\myappchat\myappchat\obj\Debug\myappchat.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\myappchat\myappchat\obj\Debug\myappchat.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\myappchat\myappchat\obj\Debug\myappchat.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\myappchat\myappchat\obj\Debug\myappchat.exe
+c:\users\user\documents\visual studio 2013\Projects\myappchat\myappchat\obj\Debug\myappchat.pdb
+C:\Users\nick\Documents\Visual Studio 2013\Projects\myappchat\myappchat\bin\Debug\myappchat.exe.config
+C:\Users\nick\Documents\Visual Studio 2013\Projects\myappchat\myappchat\obj\Debug\myappchat.exe
+C:\Users\nick\Documents\Visual Studio 2013\Projects\myappchat\myappchat\obj\Debug\myappchat.pdb
